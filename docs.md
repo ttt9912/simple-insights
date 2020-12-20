@@ -8,13 +8,16 @@ https://cli.vuejs.org/
 `npm i -g @vue/cli-service-global` required for _vue serve_
 
 ## Vue serve
-`vue serve` 
+`npm run serve` in the directory with the package.json file.
+Best. Does hot reloading.
 
-in the directory with the App.vue file
+`vue serve` in the directory with the App.vue file
 
-`vue serve -p 8888 -o` 
+`vue serve -p 8888 -o` serve on port 8888, open browser
 
-serve on port 8888, open browser
+## Build, create dist
+
+`npm run build` in the directory with the package.json file 
 
 ## Copy resources
 
