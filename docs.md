@@ -30,7 +30,7 @@ Best. Does hot reloading.
 ## Heroku
 `system.properties` for jdk 11
 
-`PORT` variable in application.properties
+`Procfile` run java -jar
 
 # Vue Scaffolding
 
