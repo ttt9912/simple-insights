@@ -21,6 +21,17 @@ Best. Does hot reloading.
 
 ## Copy resources
 
+#### ui module
+`frontend-maven-plugin` to run npm
+
+#### app module
+`maven-resources-plugin` to copy dist to resources
+
+## Heroku
+`system.properties` for jdk 11
+
+`PORT` variable in application.properties
+
 # Vue Scaffolding
 
 ### Create Project
