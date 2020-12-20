@@ -31,6 +31,7 @@ Best. Does hot reloading.
 `system.properties` for jdk 11
 
 `Procfile` run java -jar
+![DynoOn](img/dyno-on.png)
 
 # Vue Scaffolding
 
