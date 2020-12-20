@@ -1,0 +1,1 @@
+java -Dserver.port=$PORT $JAVA_OPTS -jar simple-insights-app/target/simple-insights-app-0.0.1-SNAPSHOT.jar
